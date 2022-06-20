@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/wddm-121-css-framework/static/css/main.adebad09.css",
+    "main.js": "/wddm-121-css-framework/static/js/main.d72a5d6a.js",
+    "static/js/787.dc74593e.chunk.js": "/wddm-121-css-framework/static/js/787.dc74593e.chunk.js",
+    "static/media/orbee.gif": "/wddm-121-css-framework/static/media/orbee.0bc90eab41eb10f6ef2a.gif",
+    "static/media/upfi.gif": "/wddm-121-css-framework/static/media/upfi.47ecc9d75da390b131cd.gif",
+    "static/media/binary.gif": "/wddm-121-css-framework/static/media/binary.7085630b7bd83aba1d5f.gif",
+    "static/media/predictnow.gif": "/wddm-121-css-framework/static/media/predictnow.53f9ab5b37dc165613bf.gif",
+    "static/media/nlw-heat.gif": "/wddm-121-css-framework/static/media/nlw-heat.36fef91604acdf106d45.gif",
+    "static/media/contact-background.jpg": "/wddm-121-css-framework/static/media/contact-background.32f934da09b005fc57ec.jpg",
+    "static/media/coding.gif": "/wddm-121-css-framework/static/media/coding.05f035b3a27b38553a6a.gif",
+    "static/media/about-image.jpg": "/wddm-121-css-framework/static/media/about-image.3037457512b030634455.jpg",
+    "static/media/profile.jpg": "/wddm-121-css-framework/static/media/profile.c7da596fe0536bd867c0.jpg",
+    "static/media/background-image.jpg": "/wddm-121-css-framework/static/media/background-image.f36098cf480afc9573d4.jpg",
+    "static/media/react-logo.png": "/wddm-121-css-framework/static/media/react-logo.8a6fc0a24a800d1e0f4a.png",
+    "static/media/typeorm-logo.png": "/wddm-121-css-framework/static/media/typeorm-logo.a7b7003edf362b81be26.png",
+    "static/media/material-ui-logo.png": "/wddm-121-css-framework/static/media/material-ui-logo.b2aa0f9368917bc302a1.png",
+    "static/media/nodejs-logo.png": "/wddm-121-css-framework/static/media/nodejs-logo.bc4b43cd5f20ba305059.png",
+    "static/media/nestjs-logo.svg": "/wddm-121-css-framework/static/media/nestjs-logo.6b3f50033b95b532742739a3f093d056.svg",
+    "static/media/postgresql-logo.png": "/wddm-121-css-framework/static/media/postgresql-logo.e9adbe9a8c89a8e2dc09.png",
+    "static/media/nextjs-logo.png": "/wddm-121-css-framework/static/media/nextjs-logo.6db19b31cc0a2f63cff4.png",
+    "index.html": "/wddm-121-css-framework/index.html",
+    "static/media/hamburger-icon.svg": "/wddm-121-css-framework/static/media/hamburger-icon.383ea0678c71d81b545035bad330ec53.svg",
+    "main.adebad09.css.map": "/wddm-121-css-framework/static/css/main.adebad09.css.map",
+    "main.d72a5d6a.js.map": "/wddm-121-css-framework/static/js/main.d72a5d6a.js.map",
+    "787.dc74593e.chunk.js.map": "/wddm-121-css-framework/static/js/787.dc74593e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adebad09.css",
+    "static/js/main.d72a5d6a.js"
+  ]
+}
