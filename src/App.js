@@ -11,8 +11,8 @@ function App() {
     <BrowserRouter >
       <Routes>
         <Route path="/wddm-121-css-framework" element={<Home />} />
-        <Route path="/wddm-121-css-framework/about" element={<About />} />
-        <Route path="/wddm-121-css-framework/contact" element={<ContactUs />} />
+        <Route path="/about" element={<About />} />
+        <Route path="/contact" element={<ContactUs />} />
       </Routes>
     </BrowserRouter>
   );
