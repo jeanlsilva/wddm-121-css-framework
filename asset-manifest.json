@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/wddm-121-css-framework/static/css/main.adebad09.css",
-    "main.js": "/wddm-121-css-framework/static/js/main.a6e07040.js",
+    "main.css": "/wddm-121-css-framework/static/css/main.7aff2b87.css",
+    "main.js": "/wddm-121-css-framework/static/js/main.2fe74291.js",
     "static/js/787.dc74593e.chunk.js": "/wddm-121-css-framework/static/js/787.dc74593e.chunk.js",
     "static/media/orbee.gif": "/wddm-121-css-framework/static/media/orbee.0bc90eab41eb10f6ef2a.gif",
     "static/media/upfi.gif": "/wddm-121-css-framework/static/media/upfi.47ecc9d75da390b131cd.gif",
@@ -22,12 +22,12 @@
     "static/media/nextjs-logo.png": "/wddm-121-css-framework/static/media/nextjs-logo.6db19b31cc0a2f63cff4.png",
     "index.html": "/wddm-121-css-framework/index.html",
     "static/media/hamburger-icon.svg": "/wddm-121-css-framework/static/media/hamburger-icon.383ea0678c71d81b545035bad330ec53.svg",
-    "main.adebad09.css.map": "/wddm-121-css-framework/static/css/main.adebad09.css.map",
-    "main.a6e07040.js.map": "/wddm-121-css-framework/static/js/main.a6e07040.js.map",
+    "main.7aff2b87.css.map": "/wddm-121-css-framework/static/css/main.7aff2b87.css.map",
+    "main.2fe74291.js.map": "/wddm-121-css-framework/static/js/main.2fe74291.js.map",
     "787.dc74593e.chunk.js.map": "/wddm-121-css-framework/static/js/787.dc74593e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.adebad09.css",
-    "static/js/main.a6e07040.js"
+    "static/css/main.7aff2b87.css",
+    "static/js/main.2fe74291.js"
   ]
 }
