@@ -8,9 +8,9 @@ Modal.setAppElement('#root');
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter >
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/wddm-121-css-framework" element={<Home />} />
         <Route path="/about" element={<About />} />
         <Route path="/contact" element={<ContactUs />} />
       </Routes>
